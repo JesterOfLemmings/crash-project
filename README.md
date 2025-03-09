@@ -24,6 +24,6 @@ Out current task is finishing GOOC, our main tool.
 
 What is GOOC?
 
-GOOC is open source version of GOOL with a C base. In the [goocdump](ht (who is very toxic towards hobbyists and he can go shit himself) tps://github.com/ManDude/goocdump), mandude says there should be 3 games, and 3 for each regional version, so 9. But the only one finished is NTSC-J of the first Crash Bandicoot. I haven't fully tested the tool yet, but it should decompile the games, if we were to listen to him.
+GOOC is open source version of GOOL with a C base. In the [goocdump](https://github.com/ManDude/goocdump), mandude (who does not like my project because i used a incorrect citation in a reddit post, he can go fuck himself for having a fit over that) there should be 3 games, and 3 for each regional version, so 9. But the only one finished is NTSC-J of the first Crash Bandicoot. I haven't fully tested the tool yet, but it should decompile the games, if we were to listen to him.
 
 Progress: 1/9
